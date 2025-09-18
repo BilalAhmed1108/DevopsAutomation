@@ -1,0 +1,2 @@
+variable "serverdata" {}
+variable "database" {}
